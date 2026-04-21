@@ -1,6 +1,6 @@
 # LMS Assignment Reminder 
-Ok so I built this because I had to submit almost 10 assignments a week at one point in time and I wasn't really able to keep track of which assignment I had to submit when , so I built this and also used task scheduler such that it runs by itself whenever I open my laptop and gives me a notification accordingl along with a text file to see which assignment is due when , so I could stay on top of all my assignments .
-another thing which was confuing was that an assignment being due a thursday , 12:00 am means it's actually due wednesday , so I implemented that as well so people don't get confused.
+Ok so I built this because I had to submit almost 10 assignments a week at one point in time and I wasn't really able to keep track of which assignment I had to submit when , so I built this and also used task scheduler such that it runs by itself whenever I open my laptop and gives me a notification accordingly along with a text file to see which assignment is due when , so I could stay on top of all my assignments .
+another thing which was confusing was that an assignment being due on thursday , 12:00 am means it's actually due wednesday 11:59 pm , so I implemented that as well so people don't get confused.
 
 ## Overview
 This project is an automated LMS Assignment Scraper built using Python and Selenium.  
