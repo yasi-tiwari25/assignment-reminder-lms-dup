@@ -1,4 +1,5 @@
 # LMS Assignment Reminder 
+Ok so I built this because I had to submit almost 10 assignments a week at one point in time and I wasn't really able to keep track of which assignment I had to submit when , so I built this and also used task scheduler such that it logins by itself whenever I open my laptop , so I could stay on top of all my assignments .
 
 ## Overview
 This project is an automated LMS Assignment Scraper built using Python and Selenium.  
